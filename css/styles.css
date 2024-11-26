@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-straight/css/uicons-regular-straight.css');
+
+.jost {
+    font-family: 'Jost', sans-serif;
+}
+.text-sm {
+    font-size: 15px;
+}
+
+iframe {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+/* Images */
+.prof-img {
+
+    height: 10px;
+    object-fit: cover;
+}
